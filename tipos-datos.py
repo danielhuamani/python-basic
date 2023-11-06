@@ -33,8 +33,8 @@ x,y,z = 2,4,5
 
 
 # IMPRIMIR VALORES
-print('valor de x: ', x)
-print('valor de x:', x, 'valor de y:',  y,  'valor de z:', z)
+# print('valor de x: ', x)
+# print('valor de x:', x, 'valor de y:',  y,  'valor de z:', z)
 
 # PALABRAS RESERVADAS
 '''
@@ -59,7 +59,7 @@ y = 3.7
 # print('tipo de dato de x:', type(x))
 
 
-# TIPO DE DATO STRING (CADENA DE TEXTO)
+'''TIPO DE DATO STRING (CADENA DE TEXTO) -> str'''
 
 x = 'buenos dias "geral" '
 y = "buenos dias"
@@ -69,7 +69,36 @@ multiples_lineas = '''
     te escribo esta carta
 '''
 salto_lineal = 'hola geral \nbuenos dias'
-print(salto_lineal)
+edad_geral = '25'
+nac = 1998
+# FORMAS DE ANIDAR CADENAS DE TEXTO(STRING) CON MENSAJES
+mensaje_geral = 'Hola geral tienes ' + edad_geral + ' años'
+
+mensaje_format = 'Hola geral tienes {0} años y nacio en {1}'.format(edad_geral, nac)
+minuscula = 'geral'
+# format(0, 1,2,3,4,5)
+
+
+'''
+    tipo de dato boolean -> bool
+'''
+
+x = True
+y = False
+string = 'dsdsds'
+nostring = ' '
+z = 2323232
+o = 0
+
+'''
+    tipo de dato listado -> list
+'''
+
+listado = [2, 3, 4, 1, 10]
+listad_1 = list([2, 3, 4, 5, 10])
+
+print(type(listado))
+print(listado[2])
 
 if __name__ == "__main__":
    ...
