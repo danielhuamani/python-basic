@@ -5,6 +5,20 @@
     https://programacionfacil.org/blog/los-metodos-de-string-upper-lower-capitalize-y-title-de-python/
 '''
 
+'''
+    Tarea de ejemplo:
+    Eliminar los espacios de la cadena de texto:
+    ejemplo:
+        '   hola mundo '
+    resultado:
+        'hola mundo'
+'''
+
+variable_spaces = '   hola mundo  '
+
+print(variable_spaces.strip())
+
+
 
 '''
     convertir la cadena de texto en  capital letter.
