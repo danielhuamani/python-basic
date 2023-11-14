@@ -33,17 +33,10 @@
 
 # escribir codigo aquí
 
-'''
-    Tarea 3: Escribe un programa que pregunte al usuario por el número de horas trabajadas y el coste por hora.
-            Después debe mostrar por pantalla la paga que le corresponde.
-    recordar paga total es: nro horas trabajaas * coste por hora
-'''
-
-# escribir codigo aquí
 
 
 '''
-    Tarea 4: Crea un programa que ingrese por teclado dos valores, de como resultado la suma de estos dos valores.
+    Tarea 3: Crea un programa que ingrese por teclado dos valores, de como resultado la suma de estos dos valores.
 
 '''
 
@@ -51,7 +44,7 @@
 
 
 '''
-    Tarea 5: Crea un programa que calcule el área de un rectángulo. 
+    Tarea 4: Crea un programa que calcule el área de un rectángulo. 
     El usuario debe ingresar la longitud y el ancho del rectángulo.
 
 '''
