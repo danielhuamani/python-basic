@@ -4,12 +4,15 @@
     cast(conversion de datos):
         - https://www.freecodecamp.org/espanol/news/como-convertir-strings-en-enteros-en-python/
         - https://www.programacionfacil.org/cursos/python_avanzado/python_avanzado_3_tipos_de_datos_y_conversiones.html
-    input (ingreso de datos mediante la terminal):
-        - https://www.programarya.com/Cursos/Python/entrada-y-lectura-de-datos
-        - https://www.mclibre.org/consultar/python/lecciones/python-entrada-teclado.html
+        - https://www.youtube.com/watch?v=3GcB6I7uDhA
+        - https://www.youtube.com/shorts/oiAIU8bocOU
     formateo de string: 
         - https://www.freecodecamp.org/espanol/news/formato-de-cadenas-en-python-ejemplos-de-formato-s-sprint-en-python/
         - https://www.freecodecamp.org/espanol/news/tutorial-de-f-strings-en-python-formato-de-cadenas-en-python-explicado-con-ejemplos/
+    input (ingreso de datos mediante la terminal):
+        - https://www.programarya.com/Cursos/Python/entrada-y-lectura-de-datos
+        - https://www.mclibre.org/consultar/python/lecciones/python-entrada-teclado.html
+        - https://www.youtube.com/shorts/R1NqCNfEhbE
     Para probar tu codigo puedes ejecutar el programa con 'python3 tareas/input.py'
 '''
 
