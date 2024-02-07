@@ -31,7 +31,7 @@ print(variable_spaces.strip())
 variable_to_capitalletter = "bienvenido a programar"
 
 # print -> resultado
-print('capital', variable_to_capitalletter.capitalize())
+print('capital')
 '''
     convertir la cadena de texto en todo mayuscula.
     ejemplo:
@@ -44,7 +44,7 @@ variable_lower_to_upper = "primera clase"
 
 
 # print -> resultado
-print('upper' , variable_lower_to_upper.upper())
+print('upper')
 '''
     convertir la cadena de texto en todo miniscula.
     ejemplo:
@@ -55,7 +55,7 @@ print('upper' , variable_lower_to_upper.upper())
 
 variable_upper_to_lower = "APRENDIENDO PYTHON"
 
-print('lower' , variable_upper_to_lower.lower())
+print('lower')
 
 '''
     convertir la cadena de texto en tipo titulo.
@@ -67,4 +67,4 @@ print('lower' , variable_upper_to_lower.lower())
 
 variable_to_title = "conociendo el lenguaje de programacion python"
 
-print('title' , variable_to_title.title())
+print('title')
