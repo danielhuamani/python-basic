@@ -21,15 +21,15 @@
     Tarea 1: Desarrolla un programa que solicite al usuario que ingrese un número en forma de cadena, 
     luego conviértelo a entero (int) y flotante (float) e imprime ambas conversiones.
 '''
-
 # escribir codigo aquí
 
 
 '''
     Tarea 2: Escribe un programa que pregunte al usuario por el número de horas trabajadas y el coste por hora.
-            Después debe mostrar por pantalla la paga que le corresponde.
-    recordar paga total es: nro horas trabajaas * coste por hora
+            Después debe mostrar por pantalla el sueldo que le corresponde.
+    recordar sueldo total es: nro horas trabajadas * coste por hora
 '''
+
 
 # escribir codigo aquí
 
