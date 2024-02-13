@@ -49,3 +49,11 @@
 
 '''
 # escribir codigo aquí
+
+'''
+    Tarea 5: Crea un programa que convierta dolares a soles.
+    Tasa de conversion es 3.80, solicite un numero y conviertalo a soles.
+    formula -> 100 dolares en soles =  100 * 3.80
+
+'''
+# escribir codigo aquí
