@@ -21,7 +21,11 @@
     Tarea 1: Desarrolla un programa que solicite al usuario que ingrese un número en forma de cadena, 
     luego conviértelo a entero (int) y flotante (float) e imprime ambas conversiones.
 '''
-# escribir codigo aquí
+# escribir codigo aquí 
+#string = input('Escriba un número: ')
+#int = int(string)
+#float = float(string)
+#print('Reultado:', string, 'string', int, 'int', float, 'float')
 
 
 '''
@@ -31,8 +35,13 @@
 '''
 
 
-# escribir codigo aquí
 
+# escribir codigo aquí
+#horastrabajadas = input('¿cuántas horas trabajas? : ')
+#horastrabajadas = int(horastrabajadas)
+#costeporhora = input('¿precio por hora? : ')
+#costeporhora = float(costeporhora)
+#print('Sueldo Total: ', horastrabajadas * costeporhora)
 
 
 '''
@@ -41,6 +50,11 @@
 '''
 
 # escribir codigo aquí
+#numero1 = input('Ingrese el primer número: ')
+#numero1 = int(numero1)
+#numero2 = input('ingrese el segundo número: ')
+#numero2 = int(numero2)
+#print('La suma de los dos números es: ', numero1+numero2)
 
 
 '''
@@ -49,7 +63,11 @@
 
 '''
 # escribir codigo aquí
-
+#longitud = input('Ingrese la Longitud: ')
+#longitud = int(longitud)
+#ancho = input('Ingrese el ancho: ')
+#ancho = int(ancho)
+#print('El área del rectángulo es: ', longitud*ancho)
 '''
     Tarea 5: Crea un programa que convierta dolares a soles.
     Tasa de conversion es 3.80, solicite un numero y conviertalo a soles.
@@ -57,3 +75,8 @@
 
 '''
 # escribir codigo aquí
+dolar = input('solicite la cantidad de dólares: ')
+dolar = int(dolar)
+tipodecambio = input('Tipo de cambio: 3.80')
+soles = float(3.80)
+print('Conversión a soles: ', dolar*soles,)
