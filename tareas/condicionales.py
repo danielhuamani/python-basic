@@ -1,7 +1,14 @@
+
 '''
     tarea de condiciones, tiene como fin entender y practicar
     los conceptos de if, else y elif ademas de los operadores
-    logicos y arimeticos
+    logicos y arimeticos.
+    Repaso:
+    - operadores logicos -> https://www.youtube.com/watch?v=35kWoAtgzic
+    - condicionales if, else elif -> https://www.youtube.com/watch?v=iFBcCDDDsms
+                                    https://www.youtube.com/shorts/X1dTgZrqRsg
+    - repaso general y adelantando temas -> https://www.youtube.com/watch?v=_6N18g3ewnw
+
 '''
 
 '''
