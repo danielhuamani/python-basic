@@ -25,7 +25,7 @@ flotante = 2.45 # float
     cast: int
 '''
 # variable_texto = 'hola geral' invalido
-
+# entrada -> proceso -> salida
 mi_variable = int('25')
 print('inicio 25 tipo', type('25'))
 print('variable ahora:', mi_variable, ' es tipo: ', type(mi_variable))

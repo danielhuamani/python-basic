@@ -35,8 +35,7 @@ print('Un gusto saludarte', nombre)
 terminal -> Un gusto saludarte daniel
 """
 
-# print("Cuanto ganas mensualmente con decimales, en soles porfavor?")
-# dinero = input()
+# dinero = input("Cuanto ganas mensualmente con decimales, en soles porfavor?")
 # print("tipo de dato es dinero", type(dinero))
 # aumento = 400
 # nuevo_sueldo = aumento + float(dinero)
@@ -50,7 +49,7 @@ terminal -> Un gusto saludarte daniel
 # nombre = input()
 # print("cual se tu apellido")
 # apellido = input()
-# print("Un gusto saludarte {0} {1}, me llamo daniel".format(nombre, apellido))
+# print(f"Un gusto saludarte {nombre} {apellido}, me llamo daniel")
 # print("cuantos anios tienes?")
 # anios = input()
 # '''
@@ -80,6 +79,14 @@ terminal -> Un gusto saludarte daniel
 # else:
 #     print("error en el sistema opcion no valida")
 
-print("digame su correo para agendarle una reunion")
-correo = input()
-print(f"le agendaremos una reunion al correo {correo} a las 4pm mediante zoom")
+# print("digame su correo para agendarle una reunion")
+# correo = input()
+# print(f"le agendaremos una reunion al correo {correo} a las 4pm mediante zoom")
+
+# calcule el area de un triangulo, solicitando su base y altura.
+# formula es igual -> bxh/2
+# base = input("dame la base del triangulo? ")
+# altura = input("dame la altura del triangulo? ")
+
+# resultado = (int(base) * int(altura)) / 2
+# print("el area del triagulo es: ", resultado)
